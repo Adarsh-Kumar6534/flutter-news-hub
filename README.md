@@ -3,8 +3,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="News Animated Header" />
+  <img src="assets/news-header.gif" width="300" alt="News Animated Header" />
 </p>
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/Flutter-3.22-blue?logo=flutter&logoColor=white" />
@@ -78,6 +79,14 @@ This elegant and minimal **Flutter News Hub App** lets users:
 
 ---
 
+**Adarsh Kumar**  
+💡 *CSE | Data Science | Flutter & UI Enthusiast*  
+📫 **Email:** [adarshsingh6534@gmail.com](mailto:adarshsingh6534@gmail.com)  
+🔗 **Links:**  
+[![GitHub](https://img.shields.io/badge/GitHub-Adarsh--Kumar6534-black?style=for-the-badge&logo=github)](https://github.com/Adarsh-Kumar6534)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Adarsh-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adarsh65/)
+
+
 ## 🛠 How to Run
 
 ```bash
@@ -85,3 +94,5 @@ git clone https://github.com/Adarsh-Kumar6534/flutter-news-hub.git
 cd flutter-news-hub
 flutter pub get
 flutter run
+## 🙋‍♂️ Author
+
