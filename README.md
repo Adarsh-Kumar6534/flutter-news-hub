@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="assets/news-header.gif" width="300" alt="News Animated Header" />
+  <img src="assets/news_header.gif" width="300" alt="News Animated Header" />
 </p>
 
 
