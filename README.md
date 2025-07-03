@@ -1,16 +1,87 @@
-# news
+<h1 align="center">
+  📰 Flutter News Hub App
+</h1>
 
-A new Flutter project.
+<p align="center">
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="300" alt="News Animated Header" />
+</p>
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-3.22-blue?logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/API%20Integration-HTTP-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Made%20by-Adarsh--Kumar6534-blueviolet?style=flat-square" />
+</p>
+<h3 align="center">
+  🗞️ Stay Updated • 📲 Read Trending News • 🌐 Explore the World Through Headlines
+</h3>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="assets/news_ui_preview.gif" width="60%" alt="News App UI Demo" />
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🧠 About the App
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> "Your daily dose of news — clean, beautiful, and lightning fast."
+
+This elegant and minimal **Flutter News Hub App** lets users:
+
+- 🔍 Browse current headlines and top articles
+- 📄 Dive deep into full articles using WebView
+- 🧠 Explore category-based clean UI
+- 🚀 Load news dynamically using API calls
+
+---
+
+## ✨ UI Preview
+
+<p align="center">
+  <img src="assets/home_screen.png" width="300" alt="Home Page" />
+  &nbsp; &nbsp;
+  <img src="assets/article_screen.png" width="300" alt="Article Page" />
+</p>
+
+---
+
+## 🎯 Key Features
+
+| Feature                      | Description                                                 |
+|------------------------------|-------------------------------------------------------------|
+| 📡 Real-time News Fetching   | REST API integration using `http` package                  |
+| 🌐 External Links & Sharing  | Open articles directly in the browser via `url_launcher`   |
+| 🧭 Smooth Navigation          | Structured routing: Home → Article                         |
+| 📰 Modern UI Design           | Custom fonts, SVGs, gradients, and animations              |
+| 💨 Shimmer Loading Effects    | Ensures smooth data loading and placeholders               |
+| 🌓 Dark Mode Friendly         | Built with theming in mind (extendable)
+
+---
+
+## 🧩 Tech Stack
+
+| Tech/Tool            | Usage                                    |
+|----------------------|------------------------------------------|
+| `Flutter`            | Cross-platform mobile framework          |
+| `http`               | Fetching news data from the internet     |
+| `url_launcher`       | Launching URLs from within the app       |
+| `flutter_svg`        | Rendering SVG icons                      |
+| `shimmer`            | Loading animation placeholders           |
+| `google_fonts`       | Beautiful typography                     |
+
+---
+
+## 🖼️ Screenshots
+
+| 🏠 Home Screen | 📰 Article Page |
+|----------------|----------------|
+| <img src="assets/home_screen.png" width="250"/> | <img src="assets/article_screen.png" width="250"/> |
+
+---
+
+## 🛠 How to Run
+
+```bash
+git clone https://github.com/Adarsh-Kumar6534/flutter-news-hub.git
+cd flutter-news-hub
+flutter pub get
+flutter run
